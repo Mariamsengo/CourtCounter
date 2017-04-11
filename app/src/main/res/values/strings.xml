@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="falcons">Falcons</string>
+    <string name="touchdown">touchdown</string>
+    <string name="field_goal">field goal</string>
+    <string name="_0">0</string>
+    <string name="extra_point">extra point</string>
+    <string name="safety">safety</string>
+    <string name="raiders">Raiders</string>
+    <string name="_00">0</string>
+    <string name="touchdown1">touchdown</string>
+    <string name="field_goal1">field goal</string>
+    <string name="extra_point2">extra point</string>
+    <string name="safety1">safety</string>
+    <string name="reset">reset</string>
+</resources>
